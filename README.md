@@ -1,6 +1,18 @@
-- 👋 Hi, I’m Zahra
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning FrondEnd
+# Hi, I'm Zahra 👋
+
+**QA Engineer | Software Tester**
+
+🔹 Manual Testing
+
+🔹 Test Automation with **Selenium & Appium**
+
+🔹 API Testing with **Postman**
+
+🔹 Performance Testing with **k6**
+
+🔹 Python | Git | Jira
+
+Passionate about software quality and continuous learning 🚀
 
 
 <!---
