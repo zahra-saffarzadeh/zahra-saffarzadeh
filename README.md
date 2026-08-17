@@ -1,4 +1,4 @@
-# Hi, I'm Zahra Saffrazdeh👋
+# Hi, I'm Zahra Saffarzdeh👋
 
 **QA Engineer | Software Tester | Test Automation**
 
